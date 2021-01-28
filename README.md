@@ -1,21 +1,48 @@
 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=lucasapoena&repo=lucasapoena&countColorcountColor)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome! </h1>
 
-My name is Lucas Apoena. I work as a Software Developer .Net at Dias Branco Participações LTDA.
+### Hello my name is Lucas Apoena. I currently work as a Software Developer .NET at [Dias Branco Participações](www.dibra.com.br).
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=lucasapoena&repo=lucasapoena&countColorcountColor)
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasapoena&layout=compact&count_private=true)
+### Languages & Tools 🛠
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=lucasapoena&count_private=true&show_icons=true)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=092E20)&nbsp;
+![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=092E20)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+
+
+
+### Analytics ⚙️
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lucasapoena&hide_border=true)
 
+
 <p align="left">
-
-<a href="https://www.linkedin.com/in/lucasapoena/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-<a href="https://medium.com/@lucasapoena"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lucasapoena&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasapoena&layout=compact&langs_count=8"/>
+</a>
 </p>
+
+### Let's connect ? 🤝
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/lucasapoena/"><img src="https://img.shields.io/badge/-lucasapoena-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://medium.com/@lucasapoena"><img src="https://img.shields.io/badge/-@lucasapoena-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+    <a href="mailto:contato@lucasapoena.eti.br"><img src="https://img.shields.io/badge/-contato@lucasapoena.com.br-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
