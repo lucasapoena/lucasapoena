@@ -34,13 +34,13 @@
 
 ### Analytics ⚙️
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lucasapoena&hide_border=true)
-
-
 <p align="left">
 <a href="https://github.com/lucasapoena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lucasapoena&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasapoena&layout=compact&langs_count=8"/>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasapoena&hide_border=true"/></p>
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lucasapoena&count_private=true&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasapoena&layout=compact&langs_count=8"/>
+  </p>
 </a>
 </p>
 
