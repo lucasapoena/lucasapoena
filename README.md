@@ -1,6 +1,4 @@
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=lucasapoena&repo=lucasapoena&countColorcountColor)
-
 ![](https://user-images.githubusercontent.com/135553/106216213-6960f680-61b1-11eb-8f89-3caa72b129a2.gif)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome! </h1>
