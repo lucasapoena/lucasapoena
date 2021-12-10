@@ -5,7 +5,7 @@
 
 
 
-### Hello my name is Lucas Apoena. I currently work as a Software Developer .NET at [Dias Branco Participações](http://www.dibra.com.br).
+### Hello my name is Lucas Apoena. I currently work as a Software Developer .NET.
 
 ### Languages & Tools 🛠
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)&nbsp;
