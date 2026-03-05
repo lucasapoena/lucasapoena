@@ -1,74 +1,46 @@
-![](https://user-images.githubusercontent.com/135553/106216213-6960f680-61b1-11eb-8f89-3caa72b129a2.gif)
+<div align="center">
 
-# 👨‍💻 Lucas Apoena  
+<img src="https://raw.githubusercontent.com/lucasapoena/lucasapoena/main/assets/img/banner.jpg" width="100%" />
 
-👋 Olá! Seja bem-vindo(a) ao meu perfil.  
-Sou **Desenvolvedor de Software**, apaixonado por tecnologia, boas práticas de código e soluções que realmente geram impacto nos negócios.  
+# 👨‍💻 Lucas Apoena
 
-🔗 [Meu site pessoal](https://lucasapoena.eti.br/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/lucasapoena/)  
+### Senior .NET Developer  
+**System Modernization • Scalable Architectures • Applied AI**
 
----
+🔗 [Portfolio](https://lucasapoena.eti.br) • 
+💼 [LinkedIn](https://www.linkedin.com/in/lucasapoena/) • 
+✉️ [Email](mailto:contato@lucasapoena.eti.br)
 
-## 🚀 Sobre mim  
-
-- 💻 Atuo principalmente com **.NET, C# e arquitetura de APIs**.  
-- ☁️ Interesse em **Cloud, Microsserviços, DevOps e Integrações**.  
-- 📊 Experiência com **automação de processos e sistemas corporativos**.  
-- 📚 Sempre em busca de aprendizado contínuo e novos desafios.  
+</div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-> Algumas que já tive oportunidade de conhecer e atuar...
+## ⚙️ About
 
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=.net)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=7B68EE)&nbsp;
-![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)&nbsp;  
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;  
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Magento2](https://img.shields.io/badge/-Magento2-05122A?style=flat&logo=magento)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=092E20)&nbsp;
-![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=092E20)&nbsp;  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;  
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=BA55D3)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+Senior .NET developer focused on **modernizing legacy systems**, building **reliable backend architectures**, and integrating **AI into real engineering workflows**.
+
+Most of my work happens in the **Microsoft ecosystem**, developing scalable APIs, distributed services and cloud-based platforms.
 
 ---
 
-## 📊 Estatísticas  
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasapoena&hide_border=true"/>  
-</p>
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lucasapoena&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasapoena&layout=compact&langs_count=8"/>
-</p>
-
----
-
-## 🤝 Vamos nos conectar?  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucasapoena/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@lucasapoena">
-    <img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/>
-  </a>
-  <a href="mailto:contato@lucasapoena.eti.br">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Charp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+  <img align="center" alt="Charp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">  
+  <img align="center" alt="Charp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">  
+</div>
 
 ---
 
-> _“A tecnologia deve ser simples, prática e transformadora.”_  
-> — Lucas Apoena
+## 🕵️ Interactive Layer
+
+Some layers of this portfolio reveal themselves only to those who explore closely.
+
+➡️ https://lucasapoena.eti.br
+---
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasapoena&layout=compact&langs_count=8"/>
+</div>
